@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	margin: 0 auto;
+	color: #12b7f5;
+}
+h2{
+	margin: 10px 0;
+	color: #C7C7C7;
+	font-size: 15px;
+	text-align: center;
+}
+.am-avg-sm-3 li{
+	padding:10px;
+	border-top: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+	text-align: center;
+}
+.footer{
+	position: fixed;
+	bottom:0px;
+	text-align: center;
+	width: 100%;
+	color: #cccccc;
+}
+.bottom li{
+	border-bottom: 1px solid #cccccc;
+}
+li.right{
+	border-right: 0px;
+}
